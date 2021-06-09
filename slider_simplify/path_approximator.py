@@ -4,6 +4,8 @@ import numpy as np
 
 from slider_simplify import path_type
 
+# This class was transcribed from https://git.mine2.live/DevMiner/osu-api/src/commit/da4f28917209d556d8c4ad1da37f718445373d3b/src/PathApproximator.ts
+
 _BEZIER_TOLERANCE = 0.25
 _CIRCULAR_ARC_TOLERANCE = 0.1
 _CATMULL_DETAIL = 50
